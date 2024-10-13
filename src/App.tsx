@@ -1,11 +1,12 @@
 import './App.css'
 import ResumeGenerator from './components/ResumeGenerator'
 
-function App() { 
+function App() {  
   return (
-    <>
-      <ResumeGenerator />
+    <> 
+        <ResumeGenerator />
     </>
   )
-} 
+}
+
 export default App
